@@ -12,4 +12,17 @@ public class Login {
 		
 		System.out.println("Login");
 	}
+	
+private void click1() {
+		
+		System.out.println("click1");
+	}
+private void click2() {
+	
+	System.out.println("click2");
+}
+private void click3() {
+	
+	System.out.println("click3");
+}
 }
