@@ -14,6 +14,7 @@ public class Login {
 		
 	}
 	
+
 	private void newMethod1() {
 		System.out.println("Method 1");
 
@@ -26,8 +27,21 @@ public class Login {
 		System.out.println("Method 3");
 
 	}
+private void click1() {
+		
+		System.out.println("click1");
+	}
+private void click2() {
+	
+	System.out.println("click2");
+}
+private void click3() {
+	
+	System.out.println("click3");
+}
 	
 	
 	
 	
+
 }
